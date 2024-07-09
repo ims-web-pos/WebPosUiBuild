@@ -1,0 +1,24 @@
+{
+   "DIVISION_MASTER" : {
+      "title":"Division Master",
+      "button": {
+         "add": "Add Division",
+         "back": "Back"
+      },
+      "table_heading":"Division Lists",
+      "table_data": {
+         "sn": "S.N",
+         "initial": "Initial",
+         "name": "Name",
+         "address": "Address",
+         "remarks": "Remarks",
+         "branchAcc": "Branch Account",
+         "rateGroup": "Rate Group List",
+         "costCenter": "Cost Center",
+         "action": "Action", 
+         "view": "View",
+         "edit": "Edit",
+         "delete": "Delete"
+      }
+   }
+}

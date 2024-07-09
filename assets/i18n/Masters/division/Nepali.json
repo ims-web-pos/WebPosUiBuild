@@ -1,0 +1,24 @@
+{
+   "DIVISION_MASTER" : {
+      "title":"Division मास्टर",
+      "button": {
+         "add": "Division थप्नुहोस्",
+         "back": "फिर्ता जानुहोस्"
+      },
+      "table_heading":"Division सूचीहरू",
+      "table_data": {
+         "sn": "क्रम संख्या",
+         "initial": "प्रारम्भिक अक्षरहरू",
+         "name": "नाम",
+         "address": "ठेगाना",
+         "remarks": "Remarks",
+         "branchAcc": "Branch Account",
+         "rateGroup": "Rate Group List",
+         "costCenter": "Cost Center",
+         "action": "कार्य", 
+         "view": "हेर्नुहोस्",
+         "edit": "सम्पादन गर्नुहोस्",
+         "delete": "Delete"
+      }
+   }
+}

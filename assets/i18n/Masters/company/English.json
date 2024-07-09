@@ -1,0 +1,21 @@
+{
+   "COMPANY_MASTER" : {
+      "title":"Company Master",
+      "button": {
+         "add": "Add Company",
+         "back": "Back"
+      },
+      "table_heading":"Company Lists",
+      "table_data": {
+         "sn": "S.N",
+         "initial": "Initial",
+         "name": "Name",
+         "address": "Address",
+         "vat": "VAT No.",
+         "company_id": "Company ID",
+         "action": "Action", 
+         "view": "View",
+         "edit": "Edit"
+      }
+   }
+}
