@@ -506,7 +506,7 @@ SOFTWARE.
 
 
 @microsoft/signalr
-MIT
+Apache-2.0
 
 @ngx-translate/core
 MIT
