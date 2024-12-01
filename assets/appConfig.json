@@ -1,0 +1,7 @@
+{
+    "apiUrl": "http://localhost:806/publish/api",
+    "apiUrl2": "http://localhost:806/publish/api",
+    "apiUrl1": "http://imswebpos.com:4664/DYNAMICWEBPOS/api",
+    "Version": "1.0.0.1",
+    "accountPort":"4200"
+}
