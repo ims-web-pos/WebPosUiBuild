@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1733382905075,
+  "timestamp": 1733723981752,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -112,7 +112,7 @@
         "/common.a7879b6e27a254f5.js",
         "/favicon.ico",
         "/index.html",
-        "/main.2be9c6c1230341bf.js",
+        "/main.64310ccbf499532f.js",
         "/manifest.webmanifest",
         "/polyfills.912c0f9c2194f7ed.js",
         "/runtime.f2e8b46ea0d457aa.js",
@@ -2494,7 +2494,7 @@
     "/assets/Images/login_page2.jpg": "93ba11c82fdbecf46954ff4225921e6067150c97",
     "/assets/NepaliDatePicker/nepali.datepicker.v4.0.4.min.css": "a56dba0cfc05f1fa18f0a8c69baabbbd104a2722",
     "/assets/NepaliDatePicker/nepali.datepicker.v4.0.4.min.js": "b63624d53506696b6439e3eb4d5ac6ea805e3e66",
-    "/assets/appConfig.json": "aeb5b263ed1ab54bf0ea9392bbba6443da2d84bd",
+    "/assets/appConfig.json": "1b98a29fcde1ea39e1f2252b22905949e6a4f9d7",
     "/assets/checkicon.png": "8a14c158940cfa2fbf2bfe78ac8a3da7d5d1ba58",
     "/assets/css/bootstrap.min.css": "60f0159744e3b554a45da027f9e7faa992aed71a",
     "/assets/fonepay-bg.jpeg": "55e047a4f90cdb7e08617a16c312fb1c4d2b5cb7",
@@ -4681,8 +4681,8 @@
     "/fa-v4compatibility.2484748dc83e00c0.ttf": "52a84a6495e27f43e9762f2c2a9531d9fe15e9ee",
     "/fa-v4compatibility.3d89958eb70dfc25.woff2": "dd7e4a76de26e9e39168dfac3fbb8a34a87b76bc",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d3ade3bd9be568487f0204093fa8962fcb2ada2e",
-    "/main.2be9c6c1230341bf.js": "39f80da027275f92e5a511e88b169c5d317e3294",
+    "/index.html": "ba62bb80056c33f8859a26ffabb409e1eee0c788",
+    "/main.64310ccbf499532f.js": "cd57754570cd5e9a959396a4181593099f7872e5",
     "/manifest.webmanifest": "b5402133553915cf6ba0169b51eec47de06f956d",
     "/polyfills.912c0f9c2194f7ed.js": "5b73f20d5513a254fa5626d121698766234fbc5c",
     "/runtime.f2e8b46ea0d457aa.js": "07fa1a39937722d10f9b95584ab5482307d6c1ab",
