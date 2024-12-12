@@ -1479,6 +1479,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ngx-perfect-scrollbar
 MIT
 
+party-master-library
+
 perfect-scrollbar
 MIT
 The MIT License (MIT) Copyright (c) 2012-2019 Hyunje Jun, MDBootstrap.com and other contributors
