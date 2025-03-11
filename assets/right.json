@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Message",
+      "actions": ["view", "add", "edit", "delete", "print"]
+    },
+    {
+      "title": "Push Notification",
+      "actions": ["view", "add", "edit", "delete", "print"]
+    },
+    {
+      "title": "Feedbacks",
+      "actions": ["view", "add", "edit", "delete"]
+    },
+    {
+      "title": "Category",
+      "actions": ["view", "add", "edit", "delete", "print"]
+    },
+    {
+      "title": "Promotions",
+      "actions": ["view", "add", "edit", "delete", "print"]
+    },
+    {
+      "title": "Advertisement",
+      "actions": ["view", "add", "edit", "delete", "print"]
+    },
+    {
+      "title": "Branch",
+      "actions": ["view", "add", "edit", "delete", "print"]
+    },
+    {
+      "title": "User",
+      "actions": ["view", "add", "edit", "delete", "print"]
+    }
+  ]
+
